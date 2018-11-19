@@ -1,0 +1,6 @@
+*.o
+*.vim
+*.swp
+*tags
+*build*
+*build-android*

@@ -1,0 +1,2 @@
+/home/smith/Work/base-lsd-slam/lsd_slam_core/cmake/CMakeFiles/live_slam.dir
+/home/smith/Work/base-lsd-slam/lsd_slam_core/cmake/CMakeFiles/lsdslam.dir
